@@ -2,9 +2,9 @@
 
 ## whoami
 
-- 💻 I program and I've been doing it for the past 6 years.
+- 💻 I program and I've been doing it for the past 6 years. I'll do whatever it takes to spread my passion for CS and free software.
 
-- 🔢 Currently my favorite language is Haskell, though I've programmed the longest with Python.
+- 🔢 Currently my favorite language is Haskell, though I've programmed the longest with Python. NixOS is my distro.
 
 - 🛠️ I'm working on my personal website and organization: **[fano.club](https://fano.club)**
 
@@ -12,6 +12,8 @@
 
 ## My software
 [![My Skills](https://skillicons.dev/icons?i=linux,py,bash,java,js,html,css,docker,nginx,latex,emacs,svelte,nix,firebase,androidstudio)](https://skillicons.dev)
+
+<img src="https://github.com/user-attachments/assets/588cdf10-9776-4338-9e45-c29a9c913ab7" width="220" height="147" alt="Profile Pic">
 
 **Remember to become so absolutely free that your very existence is an act of rebellion, and consider reading:** <br> **[A Mathematician's Lament](https://archive.org/details/lockharts-lament)**
 
