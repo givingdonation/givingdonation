@@ -3,8 +3,11 @@
 ## whoami
 
 - 💻 I program and I've been doing it for the past 6 years.
+
 - 🔢 Currently my favorite language is Haskell, though I've programmed the longest with Python.
+
 - 🛠️ I'm working on my personal website and organization: **[fano.club](https://fano.club)**
+
 - 📞 Reach out to me about _any_ ideas using: 
 
 ## My software
