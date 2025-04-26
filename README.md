@@ -2,13 +2,17 @@
 
 ## whoami
 
-- 💻 I program and I've been doing it for the past 6 years. I'll do whatever it takes to spread my passion for CS and free software.
+- 💻 I have been programming for the past six years. I'll do whatever it takes to spread my passion for CS and free software.
 
-- 🔢 Currently my favorite language is Haskell, though I've programmed the longest with Python. NixOS is my distro.
+- 🔢 Currently my favorite language is Haskell, though I have the most experience with Python. NixOS is my distro.
 
 - 🛠️ I'm working on my personal website and organization: **[fano.club](https://fano.club)**
 
-- 📞 Reach out to me about _any_ ideas using: 
+- 📞 Reach out to me about _any_ ideas using:
+
+🗨️ [Oligarch.01](https://signal.org/install)
+
+📧 o@fano.club
 
 ## My software
 [![My Skills](https://skillicons.dev/icons?i=linux,py,bash,java,js,html,css,docker,nginx,latex,emacs,svelte,nix,firebase,androidstudio)](https://skillicons.dev)
