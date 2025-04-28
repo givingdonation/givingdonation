@@ -12,7 +12,7 @@
 
 🗨️ [Oligarch.01](https://signal.org/install)
 
-📧 o@fano.club
+📧 work@fano.club
 
 ## My software
 [![My Skills](https://skillicons.dev/icons?i=linux,py,bash,java,js,html,css,docker,nginx,latex,emacs,svelte,nix,firebase,androidstudio)](https://skillicons.dev)
